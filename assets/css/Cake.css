@@ -1,0 +1,71 @@
+
+
+h1 {
+  font-family: Oswald Regular;
+  font size: 2.1em;
+  color: #303030;
+    }
+
+h2  {
+  font-family: Oswald Regular;
+  font-size: 1.56em;
+  color: #f2f2f2;
+    }
+
+ h2 a {
+  font-family: Oswald Regular;
+  font-size: 1.56em;
+  color: #f2f2f2;
+   }
+
+h3 {
+   font-family: Lato Black;
+   font-size: 1.125em;
+   color: #8e5942;
+   font decoration: uppercase;
+   }
+
+h4 {
+  font-family: Lato Light;
+  font-size: 1.125em;
+  color: #8e5942;
+  decoration: uppercase;
+  }
+
+p {
+  font-family: Lato regular;
+  font-size: 1em;
+  color: #303030;
+  line-height: 1.6em;
+  }
+
+p a {
+  font-family: Lato Bold Italic;
+  font-size: 1em;
+  color: #be5f27;
+  }
+
+p a hover {
+  font-family: Lato Bold Italic;
+  font-size: 1em;
+  font-color: #be5f27;
+  }
+
+nav p {
+font-family: Lato Regular;
+font-size: 1em;
+font-color: #303030;
+line height: 1.6em;
+}
+
+footer p {
+font-family: Oswald Regular;
+font-size: .9em;
+color: #f2f2f2;
+}
+#navigation {
+  display: flex;
+  flex-direction: row;
+  text-decoration-color: red;
+
+}
